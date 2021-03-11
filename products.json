@@ -1,7 +1,7 @@
 {
 	"products" : [
 		{
-			"name" : "Awesome T-shirt",
+			"name" : "Minha Camiseta",
 			"price" : "35.99",
 			"options" : [
 				{ "Size" : "Small,Medium,Large" }
